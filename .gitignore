@@ -1,2 +1,11 @@
 processed_dataset.zip
 processed_dataset.zip/
+node_modules
+node_modules/
+uatd_yolov8_m-pytorch-default-v1.tar.gz
+uatd_yolov8_m-pytorch-default-v1.tar.gz/
+webApp.zip
+webApp.zip/
+
+model/
+model

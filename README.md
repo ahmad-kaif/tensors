@@ -131,9 +131,6 @@ The project demonstrates superior performance with YOLOv8n:
 
 ---
 
-<div align="center">
-  Made with ❤️ Tensors
-</div>
 
 # Object Detection Web Application
 
@@ -194,3 +191,9 @@ npm start
 - The backend server runs on port 3001 by default
 - The React development server runs on port 3000
 - Uploaded images are temporarily stored in the `uploads` directory and automatically deleted after processing
+
+
+<div align="center">
+  Made with ❤️ Tensors
+  Ahmad, Hema & China
+</div>
